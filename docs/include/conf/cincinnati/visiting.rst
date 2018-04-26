@@ -22,7 +22,7 @@ We are not working with any of the hotels for attendee accommodations, but there
 - `The Cincinnatian Hotel <http://www.cincinnatianhotel.com>`_
 - `21c Museum Hotel <https://www.21cmuseumhotels.com/cincinnati/>`_
 - `Millennium Cincinnati <https://www.millenniumhotels.com/en/cincinnati/millennium-hotel-cincinnati/>`_
-- `Hilton Cincinnati Netherland Plaza <http://www3.hilton.com/en/hotels/ohio/hilton-cincinnati-netherland-plaza-CVGNPHF/index.html`_
+- `Hilton Cincinnati Netherland Plaza <http://www3.hilton.com/en/hotels/ohio/hilton-cincinnati-netherland-plaza-CVGNPHF/index.html>`_
 
 Check TripAdvisor to find other hotels and accommodations in the Cincinnati area.
 
@@ -45,7 +45,7 @@ Please note that it is *not* common to hail taxis in Cincinnati. Your best bet i
 
 Driving to Union Hall
 ~~~~~~~~~~~~~~~~~~~~~
-If you drive to the conference, parking in downtown Cincinnati is plentiful and inexpensive on the weekends. Use the `Over-the-Rhine Chamber of Commerce <http://otrchamber.com/pages/WheretoPark`_ or `3CDC Parking <https://www.3cdc.org/where-to-park/>`_ sites to find parking facilities.
+If you drive to the conference, parking in downtown Cincinnati is plentiful and inexpensive on the weekends. Use the `Over-the-Rhine Chamber of Commerce <http://otrchamber.com/pages/WheretoPark>`_ or `3CDC Parking <https://www.3cdc.org/where-to-park/>`_ sites to find parking facilities.
 
 Bike Rentals
 ~~~~~~~~~~~~
@@ -55,7 +55,7 @@ Cincinnati has `Red Bike <https://www.cincyredbike.org>`_ rental stations throug
 Sundries
 --------
 - `Kroger <https://www.kroger.com/stores/details/014/00301?cid=loc01400301_other>`_ grocery store is 2 blocks north of the conference venue
-- `CVS Pharmacy <https://www.cvs.com/store-locator/cvs-pharmacy-address/604+Race+Street-Cincinnati-OH-45202/storeid=2316`__ and `Walgreens Pharmacy <https://www.walgreens.com/locator/walgreens-601+race+st-cincinnati-oh-45202/id=7053>`_ are both located in downtown Cincinnati
+- `CVS Pharmacy <https://www.cvs.com>`_ and `Walgreens Pharmacy <https://www.walgreens.com>`_ have several locations in downtown Cincinnati
 
 Things to Do in Cincinnati
 --------------------------
