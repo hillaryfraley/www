@@ -1,6 +1,10 @@
-
 Code of Conduct
 ===============
+
+.. contents::
+   :local:
+   :depth: 1
+   :backlinks: none
 
 Write the Docs is a global community of documentarians who share information, discuss ideas, and work together to improve the art and science of documentation.
 
@@ -46,6 +50,8 @@ This code of conduct applies to all spaces managed by Write the Docs. This inclu
 
 In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
+.. _coc-sponsors:
+
 Sponsors, affiliates, and exhibitors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -68,3 +74,13 @@ Thanks
 ~~~~~~
 
 This code of conduct is largely based on the `Django Project Code of Conduct <https://www.djangoproject.com/conduct/>`_, which in turn credits the original text of the Speak Up! project, inspired in its turn by the Fedora Project, as well as the Python Mentorship Project and many others.
+
+Staff Contact Information
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If for any reason you need to report an issue,
+please contact us!
+You can email us at conduct@writethedocs.org,
+or report something to one of the following people:
+
+.. include:: include/conf/na-coc.rst

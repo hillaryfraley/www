@@ -32,19 +32,13 @@
         <div class="col-xs-2">
           <p>{{ talk.Time }}</p>
         </div>
-        <div class="col-xs-10>
-          <p class=">
+        <div style="color: black;" class="col-xs-10">
+          <p>
 
-          {% if talk.Session in dont_link %}
-
-          {{ talk.Session}}
-
+          {% if talk.Slug %}
+             <a href="../speakers/#speaker-{{ talk.Slug }}">{{ talk.Session }}</a>
           {% else %}
-
-`{{ talk.Session }} </conf/na/2017/speakers/#speaker-{{ talk.slug }}>`_
-
-.. raw:: html
-
+            {{ talk.Session }}
           {% endif %}
 
           </p>

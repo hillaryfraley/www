@@ -148,7 +148,7 @@ Financial Assistance
 --------------------
 
 If you can't afford these prices and still wish to attend, please email
-us at conf@writethedocs.org. Being a community event that keeps prices low,
+us at portland@writethedocs.org. Being a community event that keeps prices low,
 we can only offer discounted ticket prices,
 and not travel or hotel assistance.
 
@@ -265,12 +265,23 @@ Write the Docs NA is put on by the following lovely group of folks:
 -  `Adrienne Lowe <https://twitter.com/adriennefriend>`_
 -  `Becky Yoose <https://twitter.com/yo_bj>`_
 
+
+Write-Ups From the Community
+----------------------------
+
+-  `6 Favorite Write the Docs 2016 Conference Takeaways <https://kirstengantenbein.com/2016/05/29/6-favorite-write-the-docs-2016-conference-takeaways/>`_ by Kirsten Gantenbein‏
+-  `Move fast and document things <https://www.interana.com/blog/move-fast-and-document-things/>`_ by Neal Kaplan
+-  `Write the Docs 2016 <https://www.davidbaumgold.com/blog/2016/05/wtd-na-2016/>`_ by David Baumgold
+-  `Write the Docs 2016 Recap <https://circleci.com/blog/write-the-docs-2016-recap/>`_ by Ricardo N Feliciano
+-  `Write the Docs NA 2016 wrapup <https://ffeathers.wordpress.com/2016/05/25/write-the-docs-na-2016-wrapup/>`_ by Sarah Maddox
+
+
 Contact Us
 ----------
 
 If you wish to receive more information as it becomes available,
 follow us on Twitter at `@writethedocs <https://twitter.com/writethedocs>`_,
-email us at conf@writethedocs.org,
+email us at portland@writethedocs.org,
 or sign up for our mailing list:
 
 .. include:: /include/na-mailchimp.rst

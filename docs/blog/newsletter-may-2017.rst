@@ -1,19 +1,36 @@
-.. post:: May 1, 2017
-   :tags: newsletter, 
+.. post:: May 2, 2017
+   :tags: newsletter, snippets, agile, accessibility, teaching
 
-**************************************
+************************************
 Write the Docs Newsletter - May 2017
-**************************************
+************************************
 
 Write the Docs Portland is in Less than 2 Weeks!
 ################################################
 
 `Write the Docs Portland <http://www.writethedocs.org/conf/na/2017/>`_ is almost here! If you're coming, we're looking forward to welcoming you. If you can't make it, maybe `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ in September? Just a thought...
 
-The Portland conference is sold out again this year, but you can `join the waiting list <https://ti.to/writethedocs/write-the-docs-na-2017/>`_ in case of cancellations.
+The Portland conference is now **sold out**. Thanks to everyone who has registered, and we look forward to seeing you in Portland in a couple weeks!
 
 Now, on to this month's newsletter, packed with gems we collected from the WTD Slack channel throughout the last 30-ish days.
 
+------------------------------------------
+
+Partner Highlight: Support Driven
+#################################
+
+We're trying something new this month,
+where we're highlighting another community and conference that is doing great work.
+We're happy to help promote `Support Driven <https://supportdriven.com/>`_,
+a community built specifically around making customer support the best it can be.
+They have a Slack channel,
+newsletter,
+`SUPCONF <http://supconf.supportdriven.com/>`_,
+and now they're launching a new event workshop-focused event called `SDX <https://www.kickstarter.com/projects/supportdriven/sdx-take-your-support-skills-to-the-next-level/?utm_source=readthedocs>`_.
+
+Here is a bit of info from them:
+
+    Support lives and dies by it’s documentation. That’s why we’ll have several workshops on documentation at SDX - a new event in Portland that’s focused on learning and applying skills to advance your career. Check SDX out on `Kickstarter <https://www.kickstarter.com/projects/supportdriven/sdx-take-your-support-skills-to-the-next-level/?utm_source=writethedocs>`_.
 
 ------------------------------------------
 
@@ -58,7 +75,7 @@ A question about dividing a complicated data model into clickable sub-parts brou
 
 According to one Slack member, probably not. She explained, screen readers tend to go top-to-bottom, left-to-right, reading all the words and links. They can also read alphabetically by first letter and hierarchical by H1, H2, H3. But more complex stuff (like reading SVG flowcharts) is probably beyond the capability of common screen readers. For complex flowcharts, consider offering a text explanation along with the image.
 
-If you're interested in improving doc accessibility, check out @susanf's `list of accessibility resources <https://docs.google.com/document/d/19crjGz7lryYlvaIEzK8KTX_oMLAxzxx1AwGsjlsymgs/edit#heading=h.c5b1b4c0b5i6>`_. For an alt-text-centered guide, try Allen Flavell's article, `Use of ALT texts in IMGs <http://www.alanflavell.org.uk/alt/alt-text.html>`_.
+If you're interested in improving doc accessibility, check out @susanf's `list of accessibility resources <https://docs.google.com/document/d/19crjGz7lryYlvaIEzK8KTX_oMLAxzxx1AwGsjlsymgs/edit>`_. For an alt-text-centered guide, try Allen Flavell's article, `Use of ALT texts in IMGs <http://www.alanflavell.org.uk/alt/alt-text.html>`_.
 
 To address the original question about dividing a large data model into clickable sub-parts, commenters mentioned quite a few SVG tools:
 
@@ -104,9 +121,9 @@ Finally, you might be interested in this great series of tips and tricks for sta
 Looking Ahead
 #############
 
-Did we mention that `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ is coming down the pike? We just announced the `call for proposals <http://www.writethedocs.org/conf/eu/2017/news/announcing-cfp>`_. There are a few changes this year, so check it out and submit your proposal! You have until midnight CET on May 31. 
+Did we mention that `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ is coming down the pike? We just announced the `call for proposals <http://www.writethedocs.org/conf/eu/2017/news/announcing-cfp>`_. There are a few changes this year, so check it out and submit your proposal! You have until midnight CET on May 31.
 
-If you see a discussion in the WTD Slack channels that you'd like to see highlighted here in the WTD newsletter, there's a new tool for that! We're now using the `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_. If you see a helpful or enjoyable discussion and think it would make a good item in the newsletter, just tag one of the messages with this emoji:
+If you see a discussion in the WTD Slack channels that you'd like to see highlighted here in the WTD newsletter, there's a new tool for that! We're now using the `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_. If you see a helpful or enjoyable discussion and think it would make a good item in the newsletter, just tag one of the messages with the `newsletter` emoji:
 
 .. image:: news.png
     :width: 128px
@@ -115,4 +132,3 @@ If you see a discussion in the WTD Slack channels that you'd like to see highlig
     :alt: emoji for tagging newsletter suggestions
 
 And with Slack magic, the message will be copied into a special channel of suggestions. We look forward to reading your suggestions!
-

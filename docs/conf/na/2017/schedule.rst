@@ -39,7 +39,7 @@ Writing Day Schedule (Free for attendees)
 :doc:`Learn more</conf/na/2017/writing-day>` about Writing Day.
 
 .. datatemplate::
-   :source: /_data/na-2017-writing-day.json
+   :source: /_data/na-2017-writing-day.yaml
    :template: include/schedule2017.rst
 
 Workshop Schedule (Paid tickets)
@@ -48,7 +48,7 @@ Workshop Schedule (Paid tickets)
 :doc:`Learn more</conf/na/2017/workshops>` about the workshops.
 
 .. datatemplate::
-   :source: /_data/na-2017-workshops.json
+   :source: /_data/na-2017-workshops.yaml
    :template: include/schedule2017.rst
 
 Monday, May 15
@@ -65,7 +65,7 @@ Main Stage
 
 
 .. datatemplate::
-   :source: /_data/na-2017-day-1.json
+   :source: /_data/na-2017-day-1.yaml
    :template: include/schedule2017.rst
 
 Lola's Room
@@ -78,6 +78,7 @@ Monday Night - Party
 ^^^^^^^^^^^^^^^^^^^^^^
 
 The party will start at **7pm**.
+It will be at the `Jackknife <https://goo.gl/maps/hvYkv6RU4qD2>`_ at **614 SW 11th Ave**.
 
 The party is for **conference attendees only**.
 Please bring your badge,
@@ -95,13 +96,23 @@ Main Stage
 ^^^^^^^^^^^
 
 .. datatemplate::
-   :source: /_data/na-2017-day-2.json
+   :source: /_data/na-2017-day-2.yaml
    :template: include/schedule2017.rst
 
 Lola's Room
 ^^^^^^^^^^^
 
 :doc:`/conf/na/2017/unconference` from 9am-3pm,  these run in parallel to the main talks.
+
+Tuesday Night - Social
+^^^^^^^^^^^^^^^^^^^^^^
+
+The after-conference social will start at **6:30pm**.
+It will be hosted at New Relic's office,
+**111 SW 5th Ave, #2700 (on the 27th floor)**.
+
+This event is **open to the public**.
+There will be light snacks and drinks available.
 
 Say Goodbye
 ^^^^^^^^^^^

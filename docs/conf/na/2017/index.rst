@@ -1,4 +1,7 @@
 :template: 2017/na-index.html
+:orphan:
+
+
 
 .. raw:: html
 
@@ -19,9 +22,7 @@
                   </div>
                   <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
                     <div class="buy-ticket__2nd-col">
-                      <a href="https://ti.to/writethedocs/write-the-docs-na-2017/" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
-                      <p class="buy-ticket__p">then</p>
-                      <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Jump on the Welcome Wagon!</a>
+                      <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Get ready for the conference with our Welcome Wagon</a>
                     </div>
                   </div>
                 </div>
@@ -90,39 +91,11 @@
                 </div>
               </section>
 
-              <!-- Speakers -->
-              {% set conf = "na-2017" %}
-              {% set speakers = na_2017_speakers %}
+.. datatemplate::
+   :source: /_data/2017.na.speakers.yaml
+   :template: 2017/speaker-list.html
 
-              <section class="section">
-                <div class="row">
-                   <div class="col-xs-12">
-                    <div class="section__header subheader">
-                      <span class="subheader__yellow"></span>
-                       <h2 class="subheader__header">Speakers</h2>
-                     </div>
-                   </div>
-                 </div>
-                 <div class="row">
-
-                   {% for talk in speakers %}
-
-                      {% for speaker in talk.speakers %}
-                      <div class="col-xs-6 col-md-1-5 text-center">
-                        <a href="speakers/#speaker-{{ speaker.slug }}">
-                        <div class="person">
-                          <img src="/_static/img/speakers/{{ speaker.img_file }}" alt="{{speaker.name}}" class="person__img" style="border-radius: 50%"/>
-                          <p class="person__name">{{speaker.name}}</p>
-                        </div>
-                        </a>
-                      </div>
-
-                      {% endfor %}
-
-                   {% endfor %}
-                 </div>
-              </section>
-
+.. raw:: html
 
 
               <!-- News -->
@@ -139,20 +112,51 @@
 
                 <div class="row">
                   <div class="col-xs-12 col-md-4">
-                    <a href="news/announcing-workshops/" class="well news__tile">
+                    <a href="news/welcome/" class="well news__tile">
                       <h3 class="well__title">
-                        Announcing Workshops
+                        Welcome to Write the Docs Portland 2017!
                       </h3>
                       <p class="well__paragraph">
-                      ... we feel that since the workshops are a new type of activity,
-                      they deserve their own announcement!
+                      The conference is finally here, so here is what we hope is all the practical
+                      information that you might need to navigate the event and activities...
                       </p>
                       <div class="well__time">
-                        <span>3 PM</span>|<span>Apr 1, 2017</span>
+                        <span>3 PM</span>|<span>May 12, 2017</span>
                       </div>
                     </a>
                   </div>
 
+                  <div class="row">
+                    <div class="col-xs-12 col-md-4">
+                      <a href="news/schedule-social/" class="well news__tile">
+                        <h3 class="well__title">
+                          Announcing Full Schedule and Social Events
+                        </h3>
+                        <p class="well__paragraph">
+                        Our Portland conference is just two weeks away and we
+                        hope you're getting excited!
+                        </p>
+                        <div class="well__time">
+                          <span>3 PM</span>|<span>May 3, 2017</span>
+                        </div>
+                      </a>
+                    </div>
+
+                    <div class="row">
+                      <div class="col-xs-12 col-md-4">
+                        <a href="news/announcing-workshops/" class="well news__tile">
+                          <h3 class="well__title">
+                            Announcing Workshops
+                          </h3>
+                          <p class="well__paragraph">
+                          ... we feel that since the workshops are a new type of activity,
+                          they deserve their own announcement!
+                          </p>
+                          <div class="well__time">
+                            <span>3 PM</span>|<span>Apr 1, 2017</span>
+                          </div>
+                        </a>
+                      </div>
 
                   <div class="col-xs-12 col-md-4">
                     <a href="news/announcing-presentations/" class="well news__tile">
